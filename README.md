@@ -2,8 +2,7 @@
 tt(table tennis)ball tracking project
 
 # How to use (Colab)
-1. open colab : https://colab.research.google.com/notebooks/
-1. choose GitHub and paste this link : https://github.com/TakanariShimbo/ttball_tracking_project/blob/trunk/run_all.ipynb
+1. open colab : https://colab.research.google.com/github/TakanariShimbo/ttball_tracking_project/blob/trunk/run_all.ipynb
 1. run all with GPU
 
 # How to use (Local)
