@@ -1,3 +1,6 @@
-datas/
 .ipynb_checkpoints/
 .idea/
+bgst/
+yolov7/
+balldet/
+datas/
