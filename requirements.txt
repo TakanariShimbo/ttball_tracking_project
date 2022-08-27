@@ -12,3 +12,4 @@ protobuf<4.21.3
 tensorboard>=2.4.1
 pandas>=1.1.4
 seaborn>=0.11.0
+jupyter
