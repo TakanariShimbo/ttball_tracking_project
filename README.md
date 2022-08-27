@@ -1,6 +1,12 @@
 # About
 tt(table tennis)ball tracking project
 
-# How to use 
-run step1, 2, 3
+# How to use (Colab)
+1. run all
 
+# How to use (Local)
+1. clone this repository
+```
+git clone https://github.com/TakanariShimbo/ttball_tracking_project.git
+```
+2. run step1, 2, 3
